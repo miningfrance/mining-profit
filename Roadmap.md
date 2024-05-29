@@ -1,7 +1,7 @@
 **Version 1.0 - 18/05/2024**  
 L'outil est développé sur libre office calc
   
-* [x]Calcul du ratio H/w  
+- [x]Calcul du ratio H/w  
 * [x]Calcul du côut de minage en fonction du coût électrique  
 * [x]Calcul du gain par jour en KAS et en Euros  
 * [x]Calcul du Bénéfice lié au minage   
