@@ -1,4 +1,4 @@
-**Version 1.0 - 18/05/2024**  
+**Version 1.0 - 29/05/2024**  
 L'outil est développé sur libre office calc
   
 * Calcul du ratio H/w &check;
