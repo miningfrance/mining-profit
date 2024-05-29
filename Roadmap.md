@@ -7,16 +7,20 @@ L'outil est développé sur libre office calc
 * Calcul du Bénéfice lié au minage &check;
 * Calcul du Breakevent électrique (prix maximum à ne pas dépasser pour rester en positif)  &check;
 * Taux de conversion Euro/Dollar personnalisable &check;
+
+**Version 1.1 - travail en cours**
+* Calcul du breakevent lié au prix de kaspa &check;
+* Calcul du breakevent sur la difficulté de minage
   
 **Idées d'ajouts prévus pour les prochaines version**
-* Calcul du breakevent lié au prix de kaspa
-* Calcul du breakevent sur la difficulté de minage
 * génération de graphique pour avoir une projection dans le future
 * Migration sur une interface web python
   
 ---
 
-**The tool is developed on LibreOffice Calc**  
+**Version 1.0 - 29/05/2024** 
+
+The tool is developed on LibreOffice Calc  
   
 * Calculation of the H/w ratio &check; 
 * Calculation of mining cost based on electricity cost &check; 
@@ -25,8 +29,10 @@ L'outil est développé sur libre office calc
 * Calculation of electrical breakeven point (maximum price to stay profitable) &check; 
 * Customizable Euro/Dollar conversion rate &check; 
 
+**Version 1.1 - work in progress**
+* Calculation of breakeven point based on Kaspa price &check;
+* Calculation of breakeven point based on mining difficulty
+  
 **Planned additions for future versions**  
-* Calculation of breakeven point based on Kaspa price  
-* Calculation of breakeven point based on mining difficulty  
 * Generation of graphs for future projections  
 * Migration to a Python web interface  
